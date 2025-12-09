@@ -30,6 +30,9 @@ Then, compile and run the code with:
 # Description
 I produced images to a scene where I progressively increase the amount of directional lighting in it. Then, I stitch these images together to create a video of slowly increasing more lighting in the scene. This can also be used as a screen saver, which was my original inspiration. Similar to A3, these lights follow Blinn Phong's model and contains diffuse, specular, and ambient properties.
 
+# Acknowledgements
+In addition to the original libraries used in A3, I have also used the `random` library.
+
 # Piece
 The piece has been uploaded to Markus but can also be found as `piece.mp4`.
 
