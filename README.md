@@ -33,5 +33,5 @@ I produced images to a scene where I progressively increase the amount of direct
 # Piece
 The piece has been uploaded to Markus but can also be found as `piece.mp4`.
 
-# Compilation Verifcation
+# Compilation Verification
 The compilation verification can be found as `compilation_verification.mov` in this repository. It has not been uploaded to Markus as it is too large.
